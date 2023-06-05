@@ -13,3 +13,8 @@
 
 user.js
 package-lock.json
+/test-results/
+/playwright-report/
+/playwright/.cache/
+tests-examples/
+tests/example.spec.js
